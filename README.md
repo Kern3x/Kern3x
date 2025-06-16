@@ -56,5 +56,5 @@ services:
 
 ## 📬 Get in touch
 
-- Telegram: [@python_dev_ua](https://t.me/kernex_dev_ua)
+- Telegram: [@kernex_dev_ua](https://t.me/kernex_dev_ua)
 - Email: kernex.dev@gmail.com
