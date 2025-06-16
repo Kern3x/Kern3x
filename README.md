@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Kern3x_Banner.svg" alt="Kernex Banner" width="90%" />
+  <img src="images/Kern3x_Banner.svg" alt="Kernex Banner" width="100%" />
 </p>
 
 ---
